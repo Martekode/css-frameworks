@@ -14,3 +14,7 @@ body{
 .card:hover{
     box-shadow: 0 0 2rem rgba(0,0,0,.3);
 }
+.card-img-top{
+    max-height: 15rem;
+    min-height: 15rem;
+}

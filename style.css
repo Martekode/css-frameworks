@@ -2,9 +2,15 @@
     color: darkgray;
     border-color: white;
 }
+.btn:hover{
+    box-shadow: 0 0 2rem rgba(0,0,0,.3);
+}
 p{
     color: darkgray;
 }
 body{
     background: lightsteelblue;
+}
+.card:hover{
+    box-shadow: 0 0 2rem rgba(0,0,0,.3);
 }
